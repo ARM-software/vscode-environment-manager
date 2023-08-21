@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.5
+
+- Fix activating vcpkg-configuration files not at the workspace root.
+
 ## 1.0.4
 
 - Warn about conflicts with the Microsoft Embedded Tools extension. Offer to disable the vcpkg support provided by that extension.
