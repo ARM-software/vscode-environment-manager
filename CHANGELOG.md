@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.6
+
+- Prevent concurrently activating the same environment.
+
 ## 1.0.5
 
 - Fix activating vcpkg-configuration files not at the workspace root.
