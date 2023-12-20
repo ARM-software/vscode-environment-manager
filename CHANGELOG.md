@@ -1,5 +1,11 @@
 # Change Log
 
+## Unreleased
+
+## 1.1.0
+
+- Add custom editor for managing tool configurations.
+
 ## 1.0.6
 
 - Prevent concurrently activating the same environment.

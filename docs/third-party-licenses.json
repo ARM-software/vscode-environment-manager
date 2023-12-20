@@ -35,11 +35,32 @@
         "license": "https://github.com/isaacs/inherits/blob/main/LICENSE"
     },
     {
+        "name": "jsonc-parser",
+        "version": "3.2.0",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/node-jsonc-parser",
+        "license": "https://github.com/microsoft/node-jsonc-parser/blob/main/LICENSE.md"
+    },
+    {
         "name": "nuget-semver",
         "version": "Apache-2.0",
         "spdx": "ISC",
         "url": "https://github.com/snyk/nuget-semver",
         "license": "https://github.com/snyk/nuget-semver/blob/master/LICENSE"
+    },
+    {
+        "name": "react",
+        "version": "18.2.0",
+        "spdx": "MIT",
+        "url": "https://github.com/facebook/react",
+        "license": "https://github.com/facebook/react/blob/main/LICENSE"
+    },
+    {
+        "name": "react-dom",
+        "version": "18.2.0",
+        "spdx": "MIT",
+        "url": "https://github.com/facebook/react",
+        "license": "https://github.com/facebook/react/blob/main/LICENSE"
     },
     {
         "name": "sed-lite",
@@ -105,11 +126,25 @@
         "license": "https://github.com/microsoft/vscode-extension-telemetry/blob/main/LICENSE"
     },
     {
+        "name": "vscode-messenger",
+        "version": "0.4.5",
+        "spdx": "MIT",
+        "url": "https://github.com/TypeFox/vscode-messenger",
+        "license": "https://github.com/TypeFox/vscode-messenger/blob/v0.4.4/LICENSE"
+    },
+    {
         "name": "vscode-uri",
         "version": "3.0.3",
         "spdx": "MIT",
         "url": "https://github.com/microsoft/vscode-uri",
         "license": "https://github.com/microsoft/vscode-uri/blob/main/LICENSE.md"
+    },
+    {
+        "name": "webview-ui-toolkit",
+        "version": "1.2.2",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/vscode-webview-ui-toolkit",
+        "license": "https://github.com/microsoft/vscode-webview-ui-toolkit/blob/main/LICENSE"
     },
     {
         "name": "xml-writer",
