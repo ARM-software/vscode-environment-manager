@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.1.1
+
+- Preserve focus when showing environment manager output channel.
+
 ## 1.1.0
 
 - Add custom editor for managing tool configurations.

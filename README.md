@@ -2,11 +2,11 @@
 
 ## Overview
 
-The complete [documentation](https://developer.arm.com/documentation/108029/latest/Extension-pack-and-extensions) for the Keil Studio extensions is available on Arm Developer.
+The complete [documentation](https://developer.arm.com/documentation/108029/latest/Extension-pack-and-extensions) for the Keil® Studio extensions is available on Arm® Developer.
 
-The **Arm Environment Manager** extension allows you to manage environment artifacts using the [Microsoft vcpkg-artifacts](https://github.com/microsoft/vcpkg-tool) tool. The extension uses a vcpkg manifest file to acquire and activate the artifacts you need to set up your development environment. It can be installed individually or as part of the **Keil Studio Pack** extension in Visual Studio Code Desktop.
+The Arm Environment Manager extension allows you to manage environment artifacts using the [Microsoft vcpkg-artifacts](https://github.com/microsoft/vcpkg-tool) tool. The extension uses a vcpkg manifest file to acquire and activate the artifacts you need to set up your development environment. It can be installed individually or as part of the Arm Keil Studio Pack extension in Visual Studio Code Desktop.
 
-We recommend installing the **Keil Studio Pack** for Visual Studio Code Desktop to quickly set up your environment and start working with an example.
+We recommend installing the Keil Studio Pack for Visual Studio Code Desktop to quickly set up your environment and start working with an example.
 
 ## Intended use cases for the extensions
 
