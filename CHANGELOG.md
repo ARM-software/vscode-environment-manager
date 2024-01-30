@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.1.2
+
+- Added logic for MDK license check.
+
 ## 1.1.1
 
 - Preserve focus when showing environment manager output channel.
