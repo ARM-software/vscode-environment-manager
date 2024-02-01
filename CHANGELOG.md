@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.1.3
+
+- Add license information in the status bar.
+
 ## 1.1.2
 
 - Added logic for MDK license check.
