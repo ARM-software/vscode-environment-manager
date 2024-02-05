@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 1.1.4
+
 ## 1.1.3
 
 - Add license information in the status bar.
