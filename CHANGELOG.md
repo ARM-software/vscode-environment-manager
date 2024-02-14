@@ -2,7 +2,13 @@
 
 ## Unreleased
 
+## 1.1.5
+
+- Improve visual look of the license information in the status bar.
+
 ## 1.1.4
+
+- Add command to activate any Arm license.
 
 ## 1.1.3
 
@@ -10,7 +16,7 @@
 
 ## 1.1.2
 
-- Added logic for MDK license check.
+- Add logic for MDK license check.
 
 ## 1.1.1
 
