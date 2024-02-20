@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 1.1.6
+
+- Rename status bar and icon.
+- Use title case across messages.
+- Make primary quick-pick action opening the visual configuration editor.
+- Require license activation only when project uses tools requiring a license.
+
 ## 1.1.5
 
 - Improve visual look of the license information in the status bar.
