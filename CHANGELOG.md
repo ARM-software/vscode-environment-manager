@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 1.1.7
+
+- Remove option from settings to silence license notifications.
+- armlm binary bumped to version 1.2.6 .
+- Fixed license detection on Windows.
+
 ## 1.1.6
 
 - Rename status bar and icon.
