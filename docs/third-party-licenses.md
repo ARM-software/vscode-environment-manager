@@ -1,6 +1,6 @@
 ## Environment Manager Extension Third Party IP
 
-Report prepared at : 2023-12-01 21:49:5
+Report prepared at : 2024-03-16 17:24:18
 
 | *Package* | *Version* | *Repository* | *License* |
 |---|---|---|---|
@@ -10,7 +10,8 @@ Report prepared at : 2023-12-01 21:49:5
 |fs-constants|1.0.0|https://github.com/mafintosh/fs-constants|[MIT](https://github.com/mafintosh/fs-constants/blob/master/LICENSE)|
 |inherits|2.0.3|https://github.com/isaacs/inherits|[ISC](https://github.com/isaacs/inherits/blob/main/LICENSE)|
 |jsonc-parser|3.2.0|https://github.com/microsoft/node-jsonc-parser|[MIT](https://github.com/microsoft/node-jsonc-parser/blob/main/LICENSE.md)|
-|nuget-semver|Apache-2.0|https://github.com/snyk/nuget-semver|[ISC](https://github.com/snyk/nuget-semver/blob/master/LICENSE)|
+|native-reg|1.1.1|https://github.com/simonbuchan/native-reg|[MIT](https://github.com/simonbuchan/native-reg/blob/master/LICENSE)|
+|nuget-semver|1.3.0|https://github.com/snyk/nuget-semver|[Apache-2.0](https://github.com/snyk/nuget-semver/blob/master/LICENSE)|
 |react|18.2.0|https://github.com/facebook/react|[MIT](https://github.com/facebook/react/blob/main/LICENSE)|
 |react-dom|18.2.0|https://github.com/facebook/react|[MIT](https://github.com/facebook/react/blob/main/LICENSE)|
 |sed-lite|0.8.4|https://github.com/kawanet/sed-lite|[MIT](https://github.com/kawanet/sed-lite/blob/master/LICENSE)|

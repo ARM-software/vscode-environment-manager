@@ -2,6 +2,37 @@
 
 ## Unreleased
 
+## 1.1.13
+
+- Fix license detection for AVH package.
+
+## 1.1.12
+
+- Disable telemetry by default for SSK and HSK licenses.
+
+## 1.1.11
+
+- Added detection of missing long pathname support on Windows.
+- Extension API: Expose v2 version, which includes licensing information.
+- Don't show the option to configure the tools while the environment is activating.
+
+## 1.1.10
+
+- Clarify that the MDK 6 Community license is for non-commercial free of charge use.
+- Support for handling multiple activated licenses.
+- Add diagnostics for unlicensed packages.
+
+## 1.1.9
+
+- Add command to open armlm.
+- Support for handling license expiry.
+
+## 1.1.8
+
+- Status bar does not disappear when workspace is not configured, allowing easier initialization.
+- Make primary quick-pick action opening the visual configuration editor.
+- Show list of entries added to VS Code PATH on hover.
+
 ## 1.1.7
 
 - Remove option from settings to silence license notifications.
@@ -57,4 +88,5 @@
 - De-duplicate log messages in output channel.
 
 ## 1.0.1
+
 - Initial Release
