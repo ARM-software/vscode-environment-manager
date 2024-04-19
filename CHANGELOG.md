@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.1.14
+
+- Added inline intellisense for manifest files
+
 ## 1.1.13
 
 - Fix license detection for AVH package.
