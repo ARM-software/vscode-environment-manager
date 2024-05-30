@@ -2,9 +2,22 @@
 
 ## Unreleased
 
+## 1.1.17
+
+- Fix API types.
+- armlm binary bumped to version 1.3.1 .
+
+## 1.1.16
+
+- Add getActiveTools to extension API.
+
+## 1.1.15
+
+- Improve handling of license expiry.
+
 ## 1.1.14
 
-- Added inline intellisense for manifest files
+- Add inline intellisense for manifest files.
 
 ## 1.1.13
 
