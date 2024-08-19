@@ -1,6 +1,12 @@
 # Change Log
 
-## Unreleased
+## [Unreleased]
+
+## 1.2.0
+
+- Fix tools download for Arm64 Linux machines by including a vcpkg built for the architecture.
+- Enable the extension for Arm64 Windows machines.
+- Add names to status bar entries so they can be distinguished.
 
 ## 1.1.17
 
