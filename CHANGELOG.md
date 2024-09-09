@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## 1.4.0
+
+- Add `acquirePackages` to the packages API. This downloads a list of packages to the cache, without requiring a vcpkg-configuration.json.
+- Prevent multiple environment activations occurring at the same time, for example, when repeatedly
+  changing a vcpkg-configuration.json. This could cause activations to fail, extra data to be downloaded
+  or cache corruption.
+- Improve documentation for extension API.
+
 ## 1.2.0
 
 - Fix tools download for Arm64 Linux machines by including a vcpkg built for the architecture.
