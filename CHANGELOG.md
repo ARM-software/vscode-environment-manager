@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## 1.4.1
+
+- Updated the default Arm tools registry URL to be https://artifacts.tools.arm.com/vcpkg-registry
+
 ## 1.4.0
 
 - Add `acquirePackages` to the packages API. This downloads a list of packages to the cache, without requiring a vcpkg-configuration.json.
