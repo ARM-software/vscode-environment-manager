@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 1.6.0
+
+- Improvements to command names throughout the UI
+- The status bar now reflects the "disabled" state
+
 ## 1.4.1
 
 - Updated the default Arm tools registry URL to be https://artifacts.tools.arm.com/vcpkg-registry
