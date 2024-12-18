@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## 1.8.0
+
+- Improved README.
+
 ## 1.6.0
 
 - Improvements to command names throughout the UI
