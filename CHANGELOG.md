@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 1.10.0
+
+- List all packages and warn for those which won't work on the current system
+- Update to use vcpkg binary in the vcpkg root folder when set
+
 ## 1.8.0
 
 - Improved README.
