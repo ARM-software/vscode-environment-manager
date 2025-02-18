@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## 1.12.0
+
+- Fixed issue with new configuration file not saving in the workspace root
+
 ## 1.10.0
 
 - List all packages and warn for those which won't work on the current system
