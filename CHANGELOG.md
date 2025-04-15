@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 1.14.0
+
+- Updated Arm License Manager to v1.3.7
+- Fixed issue with vcpkg executable path on Windows when overriding vcpkg root
+
 ## 1.12.0
 
 - Fixed issue with new configuration file not saving in the workspace root
