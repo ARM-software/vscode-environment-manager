@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## 1.16.0
+
 ## 1.14.0
 
 - Updated Arm License Manager to v1.3.7

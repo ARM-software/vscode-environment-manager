@@ -2,11 +2,9 @@
 
 The Arm® Tools Environment Manager extension downloads, installs, and manages software development tools using [Microsoft vcpkg](https://vcpkg.io/en/index.html) artifacts. Arm Tools Environment Manager uses the `vcpkg-configuration.json` manifest file included in your project to acquire and activate the tools needed to set up your development environment.
 
-The [Arm Tools Artifactory](https://www.keil.arm.com/artifacts/) lists the tools (compiler, debugger, simulation models, and utilities) and the different versions available. Some tools require a [user-based licensing (UBL)](https://developer.arm.com//Tools%20and%20Software/User-based%20Licensing) license that you must activate with the **Arm License Management Utility** available with Arm Tools Environment Manager.
+The Arm Tools Artifactory lists the tools (compiler, debugger, simulation models, and utilities) and the different versions available. Some tools require a [user-based licensing (UBL)](https://developer.arm.com//Tools%20and%20Software/User-based%20Licensing) license that you must activate with the **Arm License Management Utility** available with Arm Tools Environment Manager.
 
-This extension is [free to use](https://marketplace.visualstudio.com/items/Arm.environment-manager/license) and you can install it individually or as part of the [Arm Keil® Studio Pack](https://marketplace.visualstudio.com/items?itemName=Arm.keil-studio-pack).
-
-The complete [documentation](https://developer.arm.com/documentation/108029/latest/Arm-Environment-Manager-extension) for Arm Tools Environment Manager and the other Keil Studio extensions is available on the [Arm Developer website](https://developer.arm.com).
+The Arm Tools Environment Manager extension is [free to use](https://marketplace.visualstudio.com/items/Arm.environment-manager/license). You can use the extension independently, and it is also compatible with other extensions included in the Keil Studio Pack, or in the Arm Debugger extension pack.
 
 The following features are available in the user interface:
 
