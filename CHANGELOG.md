@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 1.18.0
+
+- Updated Arm License Manager to v1.4.0
+- Set VCPKG_FORCE_SYSTEM_BINARIES=1 for Arm-based systems
+
 ## 1.16.0
 
 ## 1.14.0
