@@ -120,6 +120,11 @@ The base `~/.vcpkg` directory (`%USERPROFILE%\.vcpkg` on Windows) contains the f
 
 Environment variable settings are local to the Visual Studio Code instance and not persistent. Paths to activated tools are added at the beginning of a local PATH environment variable in Visual Studio Code. This local PATH also inherits settings from the host computer PATH. The Arm Tools Environment Manager overrules permanent tool installations on the host computer.
 
+## Usage on Arm64 (Windows and Linux)
+
+The vcpkg version in this extension doesn't include some of the native binaries used to unpack artifacts on Arm64 machines (Windows or Linux). This also applies to usage in WSL environments.
+To workaround this issue, the user needs to install these binaries separately (e.g. `apt install unzip`). A new setting `Vcpkg Use System Binaries` has been exposed to control whether external binaries are used.
+
 ## Submit feedback or report issues
 
 To submit feedback or report issues on the Arm Tools Environment Manager extension, please use [GitHub issues](https://github.com/ARM-software/vscode-environment-manager/issues) in the extension repository.

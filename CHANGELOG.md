@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 1.22.0
+
+- Added new API commands `onDidFailActivation` and `isActivating()`
+- Fixed vcpkg issue with global object modification, see https://github.com/ARM-software/vscode-environment-manager/issues/16
+
 ## 1.20.0
 
 - Expose setting to control VCPKG_FORCE_SYSTEM_BINARIES
