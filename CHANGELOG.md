@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## 1.24.1
+
 ## 1.24.0
 
 - Extracted extension API to npm
