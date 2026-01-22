@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 1.24.0
+
+- Extracted extension API to npm
+- Updated documentation
+
 ## 1.22.0
 
 - Added new API commands `onDidFailActivation` and `isActivating()`

@@ -2,13 +2,13 @@
 
 The Arm® Tools Environment Manager extension downloads, installs, and manages software development tools using [Microsoft vcpkg](https://vcpkg.io/en/index.html) artifacts. Arm Tools Environment Manager uses the `vcpkg-configuration.json` manifest file included in your project to acquire and activate the tools needed to set up your development environment.
 
-The Arm Tools Artifactory lists the tools (compiler, debugger, simulation models, and utilities) and the different versions available. Some tools require a [user-based licensing (UBL)](https://developer.arm.com//Tools%20and%20Software/User-based%20Licensing) license that you must activate with the **Arm License Management Utility** available with Arm Tools Environment Manager.
+The Arm Tools Artifactory lists the tools (compiler, debugger, simulation models, and utilities) and the different versions available. Some tools require a [User-based Licensing (UBL)](https://developer.arm.com//Tools%20and%20Software/User-based%20Licensing) license that you must activate with the **Arm License Management Utility** available with Arm Tools Environment Manager.
 
 The Arm Tools Environment Manager extension is [free to use](https://marketplace.visualstudio.com/items/Arm.environment-manager/license). You can use the extension independently, and it is also compatible with other extensions included in the Keil Studio Pack, or in the Arm Debugger extension pack.
 
 The following features are available in the user interface:
 
-- An [Arm Tools and a license status bar items](#arm-tools-and-license-status-bar-items) that show information about the tools installed for your project and your license and provide access to commands.
+- An [Arm Tools and a license status bar indicators](#arm-tools-and-license-status-bar-indicators) that show information about the tools installed for your project and your license and provide access to commands.
 
 - [Commands](#commands) to manage the tools for the project and your license.
 
@@ -22,19 +22,19 @@ This Readme provides additional details on:
 
 - [Environment variables](#environment-variables). Environment variables are automatically set for the current context.
 
-## Arm Tools and license status bar items
+## Arm Tools and license status bar indicators
 
-The **Arm Tools** status bar item shows a loading icon during tool activation. The item turns red if there are errors. Move your mouse over the status bar item to see which tools the current environment added to the PATH environment variable. Click the **Arm Tools** status bar item to view commands that help you to manage the tools installed.
+The **Arm Tools** status bar indicator shows a loading icon during tool activation. The indicator turns red if there are errors. Move your mouse over the status bar indicator to see which tools the current environment added to the PATH environment variable. Click the **Arm Tools** status bar indicator to view commands that help you to manage the tools installed.
 
-![Arm Tools status bar item](https://github.com/ARM-software/vscode-environment-manager/raw/main/docs/images/arm-tools.png)
+![Arm Tools status bar indicator](https://github.com/ARM-software/vscode-environment-manager/raw/main/docs/images/status-bar.png){ height=183 width=346 }
 
-Next to **Arm Tools**, the activated tool license displays, for example **Keil MDK Community**. If you have not activated a license yet, **No Arm License** displays and the item is red. Click the license item in the status bar to open the **Arm License Management Utility** and manage your license.
+Next to **Arm Tools**, the activated tool license displays, for example **Keil MDK Community**. If you have not activated a license yet, **No Arm License** displays and the indicator is red. Click the license indicator in the status bar to open the **Arm License Management Utility** and manage your license.
 
 ## Commands
 
 You can access commands to manage the tools installed for the project when you take the following actions:
 
-- When you click the **Arm Tools** status bar item.
+- When you click the **Arm Tools** status bar indicator.
 
 - When you right-click the `vcpkg-configuration.json` file from the **Explorer** view.
 
@@ -48,7 +48,7 @@ You can access commands to manage the tools installed for the project when you t
 | **Update Tool Registry** | Check for new tools available in the Arm Tools Artifactory. |
 | **View Log** | Review download and activation processes from the **Output** tab for the **Arm Tools** category. |
 
-Another command is available to manage your license when you click the license status bar item.
+Another command is available to manage your license when you click the license status bar indicator.
 
 | Command | Description |
 |:---------|:-----------|
