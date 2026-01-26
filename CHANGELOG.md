@@ -2,13 +2,7 @@
 
 ## [Unreleased]
 
-## 1.24.3
-
-## 1.24.2
-
-## 1.24.1
-
-## 1.24.0
+## 1.24.4
 
 - Extracted extension API to npm
 - Updated documentation
