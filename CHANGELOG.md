@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## 1.26.0
+
+- Fixed a bug where this extension wasn't updating other extensions that tools were removed
+- Added a feature to ensure the license status bar doesn't get too wide
+
 ## 1.24.4
 
 - Extracted extension API to npm
